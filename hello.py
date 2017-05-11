@@ -1,2 +1,2 @@
 print "This is first hello script"
-Print "This is another jenkins integration test"
+print "This is another jenkins integration test"
